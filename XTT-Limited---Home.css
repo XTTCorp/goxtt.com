@@ -23,6 +23,7 @@
 
 .u-section-1 .u-btn-1 {
   border-style: none none solid;
+  margin-top: 2px;
   padding: 0;
 }
 
@@ -31,11 +32,6 @@
 }
 
 .u-section-1 .u-btn-3 {
-  margin-top: 0;
-  padding: 0;
-}
-
-.u-section-1 .u-btn-4 {
   border-style: solid;
   align-self: center;
   font-weight: 700;
@@ -50,7 +46,7 @@
   margin: 122px auto 60px;
 }
 
-.u-section-1 .u-btn-5 {
+.u-section-1 .u-btn-4 {
   border-style: none none solid;
   padding: 0;
 }
